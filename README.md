@@ -1,2 +1,2 @@
 # OM-620-Assignments
-Python assignments for OM 620 working toward calculating safety stock. 
+These are my assignments for OM 620. Assignment 1 focuses on data cleaning and Assignment 2 focuses the safety stock calculation of each SKU. 
