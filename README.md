@@ -17,7 +17,7 @@ This focuses on make to stock (MTS) items and calculating the safety stock for e
 
 **Important Findings:**
 - Calculated the service level coefficients for 75%, 90% and 95% with a standard normal distribution.
-  ![]()
+  ![](https://github.com/kendrakershaw/OM-620-Assignments/blob/main/images/Screenshot%202026-11-23%20160510.png)
 - Calculated the safety stock for each SKU at all 3 service levels.
 - Identified which SKU's have highest and lowest safety stock, as well as the average.
 
