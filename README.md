@@ -34,4 +34,5 @@ mts_z95 = stats.norm.ppf(.95)`
 
 This is the safety stock equation that was used:\
   **Safety Stock = Service Level Coefficients x Standard Deviation of Order Quantity x Square Root of Average Lead Time**
-  
+
+  This will be built upon in future assignments to get to the final conclusions and recommendations. 
